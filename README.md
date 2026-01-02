@@ -1,4 +1,6 @@
-ahhhhhhhhhhh mango 67 boi ts tuff
+TableFlattener.Encode(normalTable):FlattedTable
+
+TableFlattener.Decode(flattedTable:FlattedTable):normalTable
 
 
 
