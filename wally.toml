@@ -1,0 +1,9 @@
+[package]
+name = "ro-bura/tableflattener"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+exclude = ["default.project.json","rokit.toml"]
+
+[dependencies]
