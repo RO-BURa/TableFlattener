@@ -1,8 +1,11 @@
 [package]
 name = "ro-bura/tableflattener"
+description = "A Luau library for flattening complex tables with circular references and table indexes into an ID-based flat structure."
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+authors = [ "RO_BURa" ]
+license = "MIT"
 
 exclude = ["default.project.json","rokit.toml"]
 
